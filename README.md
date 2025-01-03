@@ -2,4 +2,4 @@ Trained files of top three models presented in the paper can be downloaded from 
 
 The required packages for running models are mentioned in "installations" file.
 
-For the ease of model prediction for these models, soon the files for running on GPU and CPU both will be uploaded.  
+Download LOLv2 real captured dataset and put it in input folder. Create Results folder and input folder. Enhanced images will be saved in Result directory.
